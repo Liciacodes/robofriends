@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Liciacodes/robofriends/static/css/main.cd4161f1.css",
+    "main.js": "/Liciacodes/robofriends/static/js/main.e7ff635e.js",
+    "static/js/787.32032a02.chunk.js": "/Liciacodes/robofriends/static/js/787.32032a02.chunk.js",
+    "static/media/SEGA.woff": "/Liciacodes/robofriends/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/Liciacodes/robofriends/index.html",
+    "main.cd4161f1.css.map": "/Liciacodes/robofriends/static/css/main.cd4161f1.css.map",
+    "main.e7ff635e.js.map": "/Liciacodes/robofriends/static/js/main.e7ff635e.js.map",
+    "787.32032a02.chunk.js.map": "/Liciacodes/robofriends/static/js/787.32032a02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd4161f1.css",
+    "static/js/main.e7ff635e.js"
+  ]
+}
